@@ -40,7 +40,7 @@ GET http://localhost:3000/monsters
 
 optional parameters:
 
-_limit=[number] - limit the number of monsters returned
+_limit=[number] - limit the number of monsters returnedo
 _page=[number] - offset your request for monsters to some page (must specify a limit)
 
 example:
